@@ -13,7 +13,12 @@ gem "font-awesome-sass", "~> 6.1"
 
 gem "simple_form", github: "heartcombo/simple_form"
 
+gem 'yarn', '~> 0.1.1'
 
+gem 'webpack-rails', '~> 0.9.11'
+
+
+gem 'mysql2', '~> 0.5.4'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4"
